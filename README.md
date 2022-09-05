@@ -49,6 +49,6 @@ Moving Around Video with Slider
 
 ### f.cpp
 Write Video in A File
-<img width="1348" alt="Screen Shot 2022-09-05 at 08 29 08" src="https://user-images.githubusercontent.com/49669018/188343966-40b60853-5431-41bd-b871-7c4a4c5778fb.png">
+<img width="500" alt="Screen Shot 2022-09-05 at 08 29 08" src="https://user-images.githubusercontent.com/49669018/188343966-40b60853-5431-41bd-b871-7c4a4c5778fb.png">
 
 
