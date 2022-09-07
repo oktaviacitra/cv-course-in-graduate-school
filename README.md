@@ -45,4 +45,20 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 ### f.cpp (Write Video in A File)
 <img width="500" alt="Screen Shot 2022-09-05 at 08 29 08" src="https://user-images.githubusercontent.com/49669018/188343966-40b60853-5431-41bd-b871-7c4a4c5778fb.png">
 
+### 3-1.cpp (Read Video File)
+<img width="100" alt="Screen Shot 2022-09-07 at 08 39 05" src="https://user-images.githubusercontent.com/49669018/188776368-1d52cac1-9164-4ac7-97db-58912ab01c9d.png">
 
+### 3-2.cpp (Access Camera)
+<img width="400" alt="Screen Shot 2022-09-07 at 09 02 55" src="https://user-images.githubusercontent.com/49669018/188776493-487c3f5a-73e8-4f38-b52c-35c480408bc9.png">
+
+### 3-3.cpp (Write Video)
+<p>
+<img width="400" alt="Screen Shot 2022-09-07 at 09 04 45" src="https://user-images.githubusercontent.com/49669018/188776530-5b680d1b-1c9a-4558-88ea-9a15c4b28145.png">
+<img width="150" alt="Screen Shot 2022-09-07 at 09 05 30" src="https://user-images.githubusercontent.com/49669018/188776568-add59249-0d88-4d3a-b70d-94fe02aa90e5.png">
+</p>
+
+### 3-4.cpp (Modified Video with Animation)
+<p>
+<img width="400" alt="Screen Shot 2022-09-07 at 09 05 49" src="https://user-images.githubusercontent.com/49669018/188776716-07303ab3-6f45-4b2d-be12-93bae306da9e.png">
+<img width="150" alt="Screen Shot 2022-09-07 at 09 07 09" src="https://user-images.githubusercontent.com/49669018/188776760-3c71b7b9-7670-4b22-8bdc-e0f339e0e9e3.png">
+</p>
