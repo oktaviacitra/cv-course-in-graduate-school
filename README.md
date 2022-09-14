@@ -62,3 +62,43 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 <img width="400" alt="Screen Shot 2022-09-07 at 09 05 49" src="https://user-images.githubusercontent.com/49669018/188776716-07303ab3-6f45-4b2d-be12-93bae306da9e.png">
 <img width="150" alt="Screen Shot 2022-09-07 at 09 07 09" src="https://user-images.githubusercontent.com/49669018/188776760-3c71b7b9-7670-4b22-8bdc-e0f339e0e9e3.png">
 </p>
+
+### 4-1.cpp (Brightness & Contrast)
+<img width="175" alt="Screen Shot 2022-09-14 at 13 10 22" src="https://user-images.githubusercontent.com/49669018/190078373-054dbb81-e55c-45dc-8829-7c60119d3cae.png">
+
+### 4-2.cpp (Color Transformation)
+<img width="200" alt="Screen Shot 2022-09-14 at 10 01 49" src="https://user-images.githubusercontent.com/49669018/190078617-38224b8c-eeb3-4389-9abc-a4ea54c7f8bf.png">
+
+### 4-2-a.cpp (Color Transformation)
+<img width="200" alt="Screen Shot 2022-09-14 at 10 02 12" src="https://user-images.githubusercontent.com/49669018/190078709-6d874cda-5cb5-4ac1-8183-0f1c4f7a9828.png">
+
+### 4-2-b.cpp (Color Transformation)
+<img width="400" alt="Screen Shot 2022-09-14 at 10 08 06" src="https://user-images.githubusercontent.com/49669018/190078821-48dd345b-1e2c-4fd3-9f31-4fef2e002f81.png">
+
+### 4-2-c.cpp (Color Transformation)
+<img width="268" alt="Screen Shot 2022-09-14 at 10 09 05" src="https://user-images.githubusercontent.com/49669018/190078907-5d7cbb94-d269-48f9-b517-aeb3a2430c9e.png">
+
+### 4-3.cpp (Compositing and Mating)
+<img width="150" alt="Screen Shot 2022-09-14 at 10 10 09" src="https://user-images.githubusercontent.com/49669018/190078977-29721080-3a0b-414a-94cc-927cdf8b819a.png">
+
+### 4-3-a.cpp (Compositing and Mating)
+<img width="150" alt="Screen Shot 2022-09-14 at 10 10 42" src="https://user-images.githubusercontent.com/49669018/190080030-6e42425c-012f-40f5-a895-ce397b4586cd.png">
+
+### 4-4.cpp (Color Histogram)
+<img width="150" alt="Screen Shot 2022-09-14 at 10 11 56" src="https://user-images.githubusercontent.com/49669018/190080082-4786bcc5-d0dd-4c4d-ae5d-2fafb643cb92.png">
+
+### 4-4-a.cpp (Color Histogram)
+<img width="150" alt="Screen Shot 2022-09-14 at 10 13 08" src="https://user-images.githubusercontent.com/49669018/190080143-983bb029-ef20-4696-bed2-cda90acf304e.png">
+
+### 4-4-b.cpp (Color Histogram)
+<img width="150" alt="Screen Shot 2022-09-14 at 10 14 37" src="https://user-images.githubusercontent.com/49669018/190080218-3db7feae-edb9-47bd-8232-0d946fa81681.png">
+
+### 4-5.cpp (Color Histogram Equalization)
+<img width="200" alt="Screen Shot 2022-09-14 at 10 15 10" src="https://user-images.githubusercontent.com/49669018/190080321-7f554125-021c-4657-8a3e-f386738253de.png">
+
+### 4-5-a.cpp (Color Histogram Equalization)
+<img width="200" alt="Screen Shot 2022-09-14 at 10 15 30" src="https://user-images.githubusercontent.com/49669018/190080389-5ce86011-c7ed-4b54-80f3-aa0e570e1108.png">
+
+### 4-6.cpp (Create Color Histogram based on Webcam video)
+<img width="300" alt="Screen Shot 2022-09-14 at 10 16 35" src="https://user-images.githubusercontent.com/49669018/190080471-fb4a7723-7e49-4a80-8d10-fd498d112c7f.png">
+
