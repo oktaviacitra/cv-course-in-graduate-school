@@ -102,3 +102,35 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 ### 4-6.cpp (Create Color Histogram based on Webcam video)
 <img width="300" alt="Screen Shot 2022-09-14 at 10 16 35" src="https://user-images.githubusercontent.com/49669018/190080471-fb4a7723-7e49-4a80-8d10-fd498d112c7f.png">
 
+### 5-1.cpp (Blur)
+<img width="200" alt="5-1" src="https://user-images.githubusercontent.com/49669018/191946028-b7ea8621-b471-4322-b095-855313685457.png">
+
+### 5-2.cpp (Blur filter2D)
+<img width="200" alt="5-2" src="https://user-images.githubusercontent.com/49669018/191946043-2ca4555b-b40b-4eb5-b10d-c103a881a22e.png">
+
+### 5-3.cpp (Blur self-made)
+<img width="200" alt="5-3" src="https://user-images.githubusercontent.com/49669018/191946049-d8925c5e-bd7a-40d8-838c-2c472f53084b.png">
+
+### 5-4.cpp (gaussianblur)
+<img width="200" alt="5-4" src="https://user-images.githubusercontent.com/49669018/191946052-f3e817a1-3d7f-47d8-80c9-116a65dc98e0.png">
+
+### 5-5.cpp (medianBlur)
+<img width="200" alt="5-5" src="https://user-images.githubusercontent.com/49669018/191946058-a2275953-710a-457a-8a4c-9a3dbbe93549.png">
+
+### 5-6.cpp (Kuwahara filter)
+<img width="200" alt="5-6" src="https://user-images.githubusercontent.com/49669018/191946063-c2e09cbe-37f1-4515-8eae-c78268b6cfb0.png">
+
+### 5-7.cpp (sharpening)
+<img width="200" alt="5-7" src="https://user-images.githubusercontent.com/49669018/191946064-5c914eb2-53c3-452e-aa1f-5c579f11e1a4.png">
+
+### 5-8.cpp (sharpening gaussianblur)
+<img width="200" alt="5-8" src="https://user-images.githubusercontent.com/49669018/191946069-bc041934-6128-4b30-bc73-0926eae54b1b.png">
+
+### 5-9.cpp (edge)
+<img width="200" alt="5-9" src="https://user-images.githubusercontent.com/49669018/191946075-03a87eca-97fb-450f-ba08-0f1ee29af23a.png">
+
+### 5-9.cpp (edge Sobel filter2d)
+<img width="200" alt="5-10" src="https://user-images.githubusercontent.com/49669018/191946087-d7f986bb-2a50-439e-8dc9-9592dc7f61e6.png">
+
+### 5-10.cpp (edge Prewitt)
+<img width="200" alt="5-11" src="https://user-images.githubusercontent.com/49669018/191946097-677ed8eb-fde4-484d-b36d-a8bb8567551b.png">
