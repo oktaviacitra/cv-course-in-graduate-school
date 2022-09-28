@@ -134,3 +134,30 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 
 ### 5-10.cpp (edge Prewitt)
 <img width="200" alt="5-11" src="https://user-images.githubusercontent.com/49669018/191946097-677ed8eb-fde4-484d-b36d-a8bb8567551b.png">
+
+### 6-1.cpp (Dilation)
+<img width="200" alt="6-1" src="https://user-images.githubusercontent.com/49669018/192718576-6c22bbc5-0cf2-4ce2-a804-2b25b3a43795.png">
+
+### 6-1-4.cpp (Dilation)
+<img width="150" alt="6-1-4" src="https://user-images.githubusercontent.com/49669018/192718586-2f3f5a7b-a45b-4d8e-b439-ae1c93e41a2f.png">
+
+### 6-2.cpp  (Erosion)
+<img width="150" alt="6-2" src="https://user-images.githubusercontent.com/49669018/192718592-a6daf077-de1f-4730-9ba4-3194174de313.png">
+
+### 6-2-4.cpp (Erosion)
+<img width="200" alt="6-2-4" src="https://user-images.githubusercontent.com/49669018/192718605-d0e9123b-eea0-4446-83e0-43cee39f3354.png">
+
+### 6-3.cpp (Opening)
+<img width="150" alt="6-3" src="https://user-images.githubusercontent.com/49669018/192718610-cb00425a-ddeb-46c0-8589-ac67f4cad069.png">
+
+### 6-3-5.cpp (Opening)
+<img width="200" alt="6-3-5" src="https://user-images.githubusercontent.com/49669018/192718615-3cf5330c-9542-47d1-a267-454997d8aa0b.png">
+
+### 6-3-6.cpp (Closing)
+<img width="150" alt="6-3-6" src="https://user-images.githubusercontent.com/49669018/192718617-d96f9106-5e71-4e9b-8884-a67c6da1168b.png">
+
+### 6-3-10.cpp (Opening)
+<img width="150" alt="6-3-10" src="https://user-images.githubusercontent.com/49669018/192718619-9dbe1ac1-9190-45b8-8b93-c539a69b9a62.png">
+
+### 6-3.cpp (Distance Transform)
+<img width="150" alt="6-4" src="https://user-images.githubusercontent.com/49669018/192718621-941bbe5a-4e75-4e3e-9489-d0c0f6df405f.png">
