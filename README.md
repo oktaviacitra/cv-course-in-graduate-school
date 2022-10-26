@@ -161,3 +161,12 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 
 ### 6-3.cpp (Distance Transform)
 <img width="150" alt="6-4" src="https://user-images.githubusercontent.com/49669018/192718621-941bbe5a-4e75-4e3e-9489-d0c0f6df405f.png">
+
+### 7_1_DiscreteFourierTransform2D.cpp
+<img width="150" alt="Screen Shot 2022-10-26 at 08 54 22" src="https://user-images.githubusercontent.com/49669018/197916134-929a0625-867a-4f47-bc79-3f8243aac887.png">
+
+### 7_1_A_SpectrumMagnitude.cpp
+<img width="150" alt="Screen Shot 2022-10-26 at 08 55 20" src="https://user-images.githubusercontent.com/49669018/197916255-82e6671f-8974-4fb1-9394-07e52210ecfe.png">
+
+### 7_1_B_Fourier1D.cpp
+<img width="150" alt="Screen Shot 2022-10-26 at 08 56 27" src="https://user-images.githubusercontent.com/49669018/197916410-c09342d5-602d-44d4-a427-5d634108dd34.png">
