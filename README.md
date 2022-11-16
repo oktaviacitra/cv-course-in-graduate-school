@@ -170,3 +170,9 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 
 ### 7_1_B_Fourier1D.cpp
 <img width="150" alt="Screen Shot 2022-10-26 at 08 56 27" src="https://user-images.githubusercontent.com/49669018/197916410-c09342d5-602d-44d4-a427-5d634108dd34.png">
+
+### 8_1_Wavelet.cpp
+<img width="500" alt="Screen Shot 2022-11-16 at 10 10 47" src="https://user-images.githubusercontent.com/49669018/202313188-29c09607-04dc-47c2-ad1b-306ace8da068.png">
+
+### 8_2_Gabor.cpp
+<img width="500" alt="Screen Shot 2022-11-16 at 10 14 47" src="https://user-images.githubusercontent.com/49669018/202313257-9450248a-b1ce-421c-a5ef-07459a0c7b23.png">
