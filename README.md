@@ -176,3 +176,10 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 
 ### 8_2_Gabor.cpp
 <img width="500" alt="Screen Shot 2022-11-16 at 10 14 47" src="https://user-images.githubusercontent.com/49669018/202313257-9450248a-b1ce-421c-a5ef-07459a0c7b23.png">
+
+### 9-1-TemplateMatching.cpp
+<img width="1680" alt="Screen Shot 2022-11-16 at 09 17 04" src="https://user-images.githubusercontent.com/49669018/202844984-8fa21a6c-dac5-4559-8058-b4e96bfaf944.png">
+
+### 9-2-TemplateMatchingWithPyramidFunction.cpp
+<img width="1680" alt="Screen Shot 2022-11-16 at 09 40 45" src="https://user-images.githubusercontent.com/49669018/202844994-3338122e-c8a0-4446-a6b0-824af8970578.png">
+
