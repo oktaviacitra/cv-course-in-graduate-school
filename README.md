@@ -183,3 +183,11 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 ### 9-2-TemplateMatchingWithPyramidFunction.cpp
 <img width="1680" alt="Screen Shot 2022-11-16 at 09 40 45" src="https://user-images.githubusercontent.com/49669018/202844994-3338122e-c8a0-4446-a6b0-824af8970578.png">
 
+### 10_1_histogram.cpp
+<img width="1263" alt="Screen Shot 2022-11-17 at 04 53 14" src="https://user-images.githubusercontent.com/49669018/202961763-60760022-a86c-4a3e-b0fd-e95f85edb47a.png">
+
+### 10_2_colormoment.cpp
+<img width="1502" alt="Screen Shot 2022-11-17 at 04 56 09" src="https://user-images.githubusercontent.com/49669018/202961815-c234acba-fa4a-4877-910d-5e328781c538.png">
+
+### 10_3_fourier.cpp
+<img width="150" alt="Screen Shot 2022-11-17 at 04 57 58" src="https://user-images.githubusercontent.com/49669018/202962113-06382a8d-e1e4-44b4-80b3-04d0beb9a271.png">
