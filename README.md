@@ -191,3 +191,15 @@ g++ $(pkg-config --cflags --libs opencv4) -std=c++11  <file-name>.cpp -o <file-n
 
 ### 10_3_fourier.cpp
 <img width="150" alt="Screen Shot 2022-11-17 at 04 57 58" src="https://user-images.githubusercontent.com/49669018/202962113-06382a8d-e1e4-44b4-80b3-04d0beb9a271.png">
+
+### 11_1_facedetection.cpp
+<img width="1136" alt="Screen Shot 2022-11-17 at 05 03 46" src="https://user-images.githubusercontent.com/49669018/203201195-2c09109d-efe9-4903-a7d3-fe68ce48212b.png">
+
+### 11_2_facedetection.cpp
+<img width="1348" alt="Screen Shot 2022-11-17 at 05 54 53" src="https://user-images.githubusercontent.com/49669018/203211999-e81cb3ac-27ba-4c01-8563-99126867b463.png">
+
+### 11_2_A_facedetection.cpp
+<img width="1348" alt="Screen Shot 2022-11-17 at 05 55 31" src="https://user-images.githubusercontent.com/49669018/203212099-e0c09ce5-145f-4808-8b09-d5e4d94c62e6.png">
+
+### 11_2_B_facedetection.cpp
+<img width="1288" alt="Screen Shot 2022-11-17 at 05 56 11" src="https://user-images.githubusercontent.com/49669018/203212109-0a9f37ea-fcd3-4408-9bd0-02e75781bffe.png">
